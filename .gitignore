@@ -1,0 +1,6 @@
+export/
+*.psd
+*.ai
+*.indd
+*.fig
+.DS_Store
